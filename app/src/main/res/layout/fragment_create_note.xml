@@ -24,7 +24,7 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <com.codingwithmitch.mvp_room_koin.custom_views.LinedEditText
+    <EditText
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/create_note_content"

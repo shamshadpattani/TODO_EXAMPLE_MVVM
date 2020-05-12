@@ -1,4 +1,3 @@
-package com.codingwithmitch.mvvm_koin_room.ui
 
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
